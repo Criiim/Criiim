@@ -2,7 +2,7 @@
   <img src="RTX_ON.gif" width="42%" alt="Header GIF">
 </p>
 
-# ⚡ VinceVInceVInce
+# ⚡ VinceVinceVince
 **Computer Science Student at Systems Plus College Foundation** 🎓  
 📍 *Balibago, Angeles City, Pampanga*
 
