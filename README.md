@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-Wassup, I'm a Computer Science student that focuses on Machine learning stuff, currently fine tunning my life 🫨.
+Wassup, I'm a Computer Science student and I focus on Machine learning stuff, currently fine tunning my life 🫨.
 
 <br>
 
