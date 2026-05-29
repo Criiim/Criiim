@@ -14,7 +14,7 @@ Wassssssup! I'm Vince, a Computer Science student focused on machine learning st
 
 
 
-<br>
+<!-- <br>
 
 <p align="center">
   <a href="YOUR_FACEBOOK_URL">
@@ -32,7 +32,7 @@ Wassssssup! I'm Vince, a Computer Science student focused on machine learning st
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
-</p> 
+</p>  -->
 
 ---
 
