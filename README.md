@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="RTX_ON.gif" width="100%" alt="Header GIF">
+  <img src="RTX_ON.gif" width="50%" alt="Header GIF">
 </p>
 
 # ⚡ VinceVInceVInce
