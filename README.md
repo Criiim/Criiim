@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-Computer Science student that focuses on Machine learning stuff
+Wassup, I'm a Computer Science student that focuses on Machine learning stuff, currently fine tunning my life 🫨.
 
 <br>
 
