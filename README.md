@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-Wassup, I'm a Computer Science student and I focus on Machine learning stuff, currently fine tunning my life 🫨.
+Wassssssup, I'm a Computer Science student and I focus on Machine learning stuff, currently fine tunning my life 🫨.
 
 Here is the updated Markdown code with JavaScript replaced by C++ in your Languages section.
 
@@ -19,9 +19,6 @@ Markdown
 📍 *Angeles City, Pampanga*
 
 ---
-
-### 🚀 About Me
-Hi! I am currently pursuing a Bachelor of Science in Computer Science, specializing in Artificial Intelligence and Machine Learning. I have hands-on experience building models for Computer Vision (like object detection using **YOLO**) and **Natural Language Processing (NLP)** pipelines. I'm passionate about translating data into intelligent, actionable applications.
 
 <br>
 
