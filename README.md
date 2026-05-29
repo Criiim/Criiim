@@ -11,14 +11,6 @@
 ### 🚀 About Me
 Wassssssup, I'm a Computer Science student and I focus on Machine learning stuff, currently fine tunning my life 🫨.
 
-Here is the updated Markdown code with JavaScript replaced by C++ in your Languages section.
-
-Markdown
-# ⚡ Julian Mathew M. Guintu
-**Computer Science Student at Holy Angel University** 🎓  
-📍 *Angeles City, Pampanga*
-
----
 
 <br>
 
