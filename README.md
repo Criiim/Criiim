@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="PASTE_YOUR_GIF_URL_HERE" width="100%" alt="Header GIF">
+  <img src="RTX_ON.gif" width="100%" alt="Header GIF">
 </p>
 
 # ⚡ VinceVInceVInce
