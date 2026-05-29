@@ -15,7 +15,7 @@ Wassssssup! I'm Vince, a Computer Science student focused on machine learning st
 
 
 <br>
-''
+
 <p align="center">
   <a href="YOUR_FACEBOOK_URL">
     <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=flat&logo=Facebook&logoColor=white" alt="Facebook"/>
@@ -32,8 +32,8 @@ Wassssssup! I'm Vince, a Computer Science student focused on machine learning st
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/Email-%23EA4335.svg?style=flat&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
-''
+</p> 
+
 ---
 
 ### 🛠️ Tech Stack & Tools
