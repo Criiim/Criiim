@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-Wassssssup, I'm a Computer Science student and I focus on Machine learning stuff, currently fine tunning my life 🫨.
+Wassssssup! I'm Vince, a Computer Science student focused on machine learning stuff, currently fine-tuning my life 🫨.
 
 
 
