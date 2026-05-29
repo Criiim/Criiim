@@ -9,7 +9,7 @@
 ---
 
 ### 🚀 About Me
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+Computer Science student that focuses on Machine learning stuff
 
 <br>
 
